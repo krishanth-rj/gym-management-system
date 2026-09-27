@@ -32,11 +32,11 @@ ALLOWED_HOSTS = [
     "127.0.0.1",
     "localhost",
     "testserver",
-    "gym-management-system.onrender.com",
+    "https://gym-management-system-63h0.onrender.com",
 ]
 
 CSRF_TRUSTED_ORIGINS = [
-    "https://gym-management-system.onrender.com",
+    "https://gym-management-system-63h0.onrender.com",
 ]
 
 # Application definition
