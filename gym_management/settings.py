@@ -32,7 +32,7 @@ ALLOWED_HOSTS = [
     "127.0.0.1",
     "localhost",
     "testserver",
-    "https://gym-management-system-63h0.onrender.com",
+    "gym-management-system-63h0.onrender.com",
 ]
 
 CSRF_TRUSTED_ORIGINS = [
