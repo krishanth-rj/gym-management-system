@@ -35,6 +35,9 @@ ALLOWED_HOSTS = [
     "gym-management-system.onrender.com",
 ]
 
+CSRF_TRUSTED_ORIGINS = [
+    "https://gym-management-system.onrender.com",
+]
 
 # Application definition
 
